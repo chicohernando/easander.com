@@ -7,4 +7,4 @@ Personal site for Eric Sanders
 * Website:   <http://easander.com/>
 * GitHub:    <https://github.com/chicohernando/easander.com>
 
-This project is for the personal site of Eric Sanders and is located at http://easander.com/.  Nothing fancy here, just a static site.
+This project is for the personal site of Eric Sanders and is located at http://easander.com/.  Nothing fancy here, just a static site
